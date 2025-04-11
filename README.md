@@ -9,5 +9,5 @@ The input has two integer numbers.
 ### Output
 Print the relative message to the input as stated above.
 
-<b>Note:</b>
+<b>Note:</b><br>
 <img src="./image/multiples.png">
